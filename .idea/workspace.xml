@@ -1,7 +1,654 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77f5e9ed-0dc9-4728-8c5e-ff1827a6b82b" name="Default" comment="" />
+    <list default="true" id="77f5e9ed-0dc9-4728-8c5e-ff1827a6b82b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/Highcharts.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/apple-touch-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/apple-touch-icon-120x120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/apple-touch-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/apple-touch-icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/apple-touch-icon-180x180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/apple-touch-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/apple-touch-icon-60x60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/apple-touch-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/apple-touch-icon-76x76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/images/bicycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/images/bicycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/calendar/calendar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/images/car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/images/car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/graphics/highslide/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/graphics/highslide/closeX.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/favicon-160x160.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/favicon-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/favicon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/graphics/meteogram-symbols-30px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/images/motorcycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/images/motorcycle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/chalk/pattern1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/chalk/pattern1r.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/chalk/pattern2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/chalk/pattern3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/chalk/pattern4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/chalk/pattern5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/chalk/pattern6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/black/pattern9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/patterns/white/pattern9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/graphics/highslide/resize.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/graphics/highslide/outlines/rounded-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/graphics/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/autocomplete/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/graphics/skies.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/graphics/snow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/splash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/images/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/graphics/sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/gfx/vml-radial-gradient.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/graphics/highslide/zoomout.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/10.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/11.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/12.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/13.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/14.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/15.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/16.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/17.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/18.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/19.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/20.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/21.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/22.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/23.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/24.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/25.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/26.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/27.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/28.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/29.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/30.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/31.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/6.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/7.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/8.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/shapes/9.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/FileSaver.js/FileSaver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/FileSaver.js/FileSaver.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/animate/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/xlsx/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/MSFT.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/MSFT_events.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/animate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/TXN.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/selection/active-line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/activebookmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/activeline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/animate/animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/animate/animate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/hint/anyword-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/anywordhint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/apl/apl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/asterisk/asterisk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/bin/authors.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/bidi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/themes/black.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/blob.js/blob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/boost.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/boost.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/fold/brace-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/broken-axis.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/broken-axis.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/btree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/buffers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/calendar/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/calendar/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/calendar/calendas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/canvas-tools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/canvas-tools.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/themes/chalk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/changemode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/clike/clike.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/clojure/clojure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/closebrackets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/edit/closebrackets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/closetag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/edit/closetag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/cobol/cobol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/lib/codemirror.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/lib/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/lint/coffeescript-lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/coffeescript/coffeescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/runmode/colorize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/fold/comment-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/comment/comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/commonlisp/commonlisp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/complete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/compress.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/bin/compress" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/comment/continuecomment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/edit/continuelist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/hint/css-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/lint/css-lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/css/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/d/d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/themes/dark-blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/themes/dark-green.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/themes/dark-unica.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/themes/dark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/data.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/dataloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/dataloader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/dialog/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/dialog/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/diff/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/merge/dep/diff_match_patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/drilldown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/drilldown.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/dtd/dtd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/ecl/ecl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/eiffel/eiffel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/emacs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/keymap/emacs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/erlang/erlang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/export.config.advanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/export.config.default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/export.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/export.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/exporting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/exporting.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/fabric.js/fabric.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/fabric.js/fabric.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/fold/foldcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/fold/foldgutter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/fold/foldgutter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/folding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/fortran/fortran.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/display/fullscreen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/fullscreen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/display/fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/animate/examples/funnel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/funnel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/funnel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/funnel.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/gantt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/gantt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/gantt.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/gantt_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/gas/gas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/gauge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/gauge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/gauge.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/gauge_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/gfm/gfm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/gherkin/gherkin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/go/go.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/themes/gray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/themes/grid-light.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/themes/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/groovy/groovy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/haml/haml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/hardwrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/wrap/hardwrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/haskell/haskell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/haxe/haxe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/heatmap.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/highcharts-3d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/highcharts-3d.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/highcharts-more.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/highcharts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/highcharts.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/hint/html-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/html5complete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/htmlembedded/htmlembedded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/htmlmixed/htmlmixed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/http/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/fold/indent-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/indentwrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/3d-column-interactive/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/3d-column-null-values/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/3d-column-stacking-grouping/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/3d-pie/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/3d-pie-donut/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/3d-scatter-draggable/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/area-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/area-inverted/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/area-missing/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/area-negative/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/area-stacked/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/area-stacked-percent/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/arearange/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/arearange-line/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/areaspline/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/bar-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/bar-negative-stack/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/bar-stacked/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/box-plot/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/bubble/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/bubble-3d/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/column-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/column-drilldown/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/column-negative/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/column-parsed/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/column-placement/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/column-rotated-labels/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/column-stacked/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/column-stacked-and-grouped/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/column-stacked-percent/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/columnrange/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/combo/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/combo-dual-axes/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/combo-meteogram/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/combo-multi-axes/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/combo-regression/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/combo-timeline/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/dynamic-click-to-add/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/dynamic-master-detail/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/dynamic-update/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/error-bar/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/funnel/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/gauge-clock/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/gauge-dual/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/gauge-solid/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/gauge-speedometer/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/gauge-vu-meter/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/heatmap/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/heatmap-canvas/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/line-ajax/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/line-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/line-labels/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/line-log-axis/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/line-time-series/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/pie-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/pie-donut/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/pie-drilldown/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/pie-gradient/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/pie-legend/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/pie-monochrome/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/pie-semi-circle/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/polar/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/polar-spider/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/polar-wind-rose/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/polygon/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/pyramid/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/renderer/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/scatter/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/sparkline/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/spline-inverted/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/spline-irregular-time/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/spline-plot-bands/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/spline-symbols/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/synchronized-charts/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/treemap-coloraxis/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/treemap-large-dataset/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/treemap-with-levels/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/examples/waterfall/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/apl/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/asterisk/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/clike/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/clojure/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/cobol/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/coffeescript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/commonlisp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/css/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/d/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/diff/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/dtd/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/ecl/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/eiffel/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/erlang/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/fortran/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/gas/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/gfm/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/gherkin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/go/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/groovy/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/haml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/haskell/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/haxe/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/htmlembedded/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/htmlmixed/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/http/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/jade/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/javascript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/jinja2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/julia/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/livescript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/lua/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/markdown/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/mirc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/mllike/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/nginx/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/ntriples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/octave/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/pascal/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/pegjs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/perl/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/php/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/pig/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/properties/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/puppet/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/python/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/q/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/r/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/rpm/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/rpm/changes/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/rst/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/ruby/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/rust/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/sass/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/scheme/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/shell/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/sieve/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/smalltalk/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/smarty/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/smartymixed/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/solr/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/sparql/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/sql/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/stex/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/tcl/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/internals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/jade/jade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/hint/javascript-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/lint/javascript-lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/javascript/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/jinja2/jinja2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/js/jquery-1.11.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/css/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/js/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/autocomplete/jquery.autocomplete-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/javascript/json-ld.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/lint/json-lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/jszip/jszip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/jszip/jszip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/julia/julia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/css/less.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/css/less_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/themes/light.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/lint/lint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/lint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/lint/lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/bin/lint" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/livescript/livescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/livescript/livescript.ls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/loadmode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/mode/loadmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/lua/lua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/manual.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/map.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/map_areas.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/map_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/map_json_external_function.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/selection/mark-selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/fold/markdown-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/markdown/markdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/marker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/markselection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/search/match-highlighter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/edit/matchbrackets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/matchhighlighter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/matchtags.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/edit/matchtags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/merge/merge.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/merge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/merge/merge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/meta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/mirc/mirc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/mllike/mllike.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/multiplex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/mode/multiplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/mode/multiplex_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/mustache.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/nginx/nginx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/no-data-to-display.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/no-data-to-display.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/ntriples/ntriples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/octave/octave.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/offline-exporting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/offline-exporting.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/mode/overlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/pascal/pascal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/themes/patterns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/pdfmake/pdfmake.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/pdfmake/pdfmake.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/pdfmake/pdfmake.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/pegjs/pegjs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/perl/perl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/php/php.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/pie.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/animate/examples/pie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/pie.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/pie1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/pie1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/pie2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/pie2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/pie3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/pie3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/pie4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/pie_csv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/pie_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/pig/pig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/placeholder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/display/placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/properties/properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/puppet/puppet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/hint/python-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/python/python.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/q/q.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/r/r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/animate/examples/radar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/radar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/radar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/radar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/realworld.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/css/ref.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/js/ref.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/bin/release" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/releases.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/reporting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/resize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/responsive.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/responsive.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/rpm/rpm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/rst/rst.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/ruby/ruby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/rulers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/display/rulers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/runmode/runmode-standalone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/runmode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/runmode/runmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/runmode/runmode.node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/rust/rust.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/lang/rw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/themes/sand-signika.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/sass/sass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/clike/scala.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/scheme/scheme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/scroll/scrollpastend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/css/scss.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/css/scss_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/search/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/search/searchcursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/serial.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/serial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/serial.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/serial1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/serial1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/serial2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/serial2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/data/serial2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/serial2_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/serial3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/serial3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/animate/examples/serial_column.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/serial_csv.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/serial_json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/animate/examples/serial_line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/serial_with_dynamic_graphs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/shell/shell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/hint/show-hint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/hint/show-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/sieve/sieve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/themes/skies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/smalltalk/smalltalk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/smarty/smarty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/smartymixed/smartymixed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/lang/so.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/solid-gauge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/solid-gauge.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/solr/solr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/bin/source-highlight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/api/css/source-sans-pro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/spanaffectswrapping_shim.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/sparql/sparql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/hint/sql-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/sql/sql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/adapters/standalone-framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/adapters/standalone-framework.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/stex/stex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/stock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/stock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/stock_csv_data_and_events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/dataloader/examples/stock_csv_progressbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/autocomplete/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/sublime.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/keymap/sublime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/tcl/tcl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/tern/tern.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/tern.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/tern/tern.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/css/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/gfm/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/haml/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/javascript/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/markdown/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/ruby/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/stex/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/theme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/trailingspace.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/edit/trailingspace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/treemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/charts/js/modules/treemap.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/mode/javascript/typescript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/upgrade_v2.2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/upgrade_v3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/doc/upgrade_v4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/variableheight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/pdfmake/vfs_fonts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/vim.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/keymap/vim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/visibletabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/widget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/tern/worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/xlsx/xlsx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/xlsx/xlsx.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/libs/xlsx/xlsx.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/fold/xml-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/hint/xml-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/demo/xmlcomplete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/animate/examples/xy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/export/examples/xy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/plugins/responsive/examples/xy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/xy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/codemirror/addon/lint/yaml-lint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/design/js/amcharts/lang/zh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="localhost.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,11 +669,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.tpl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design/default/html/index.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70577615">
+            <state vertical-scroll-proportion="-15.038462">
               <caret line="228" column="32" selection-start-line="228" selection-start-column="32" selection-end-line="228" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.46028882">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -48,8 +705,8 @@
       <list>
         <option value="$PROJECT_DIR$/design/default/css/style.css" />
         <option value="$PROJECT_DIR$/view/IndexView.php" />
-        <option value="$PROJECT_DIR$/config/config.php" />
         <option value="$PROJECT_DIR$/design/default/html/index.tpl" />
+        <option value="$PROJECT_DIR$/config/config.php" />
       </list>
     </option>
   </component>
@@ -253,7 +910,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1140625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32968238" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -322,6 +979,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -403,13 +1061,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view/IndexView.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -447,8 +1098,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/design/default/html/index.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70577615">
+        <state vertical-scroll-proportion="-15.038462">
           <caret line="228" column="32" selection-start-line="228" selection-start-column="32" selection-end-line="228" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46028882">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding />
         </state>
       </provider>
